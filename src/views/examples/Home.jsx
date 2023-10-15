@@ -1,13 +1,11 @@
-import './Menu.css'
 import React from 'react'
 import { BrowserRouter as Router } from  'react-router-dom'
 
+const Home = props => (
 
-const Menu = props => (
-
-    <aside className='Menu'>
-     Menu
+    <aside className='Home'>
+     Home
     </aside>
 )
 
-export default Menu
+export default Home
