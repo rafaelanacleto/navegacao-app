@@ -3,9 +3,9 @@ import { BrowserRouter as Router } from  'react-router-dom'
 
 const Contador = props => (
 
-    <aside className='Contador'>
+    <div className='Contador'>
      Contador
-    </aside>
+    </div>
 )
 
 export default Contador

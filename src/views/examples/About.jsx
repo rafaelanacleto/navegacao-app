@@ -3,9 +3,9 @@ import { BrowserRouter as Router } from  'react-router-dom'
 
 const About = props => (
 
-    <aside className='About'>
+    <div className='About'>
      About
-    </aside>
+    </div>
 )
 
 export default About

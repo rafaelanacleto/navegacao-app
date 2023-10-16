@@ -3,9 +3,9 @@ import { BrowserRouter as Router } from  'react-router-dom'
 
 const Home = props => (
 
-    <aside className='Home'>
+    <div className='Home'>
      Home
-    </aside>
+    </div>
 )
 
 export default Home
