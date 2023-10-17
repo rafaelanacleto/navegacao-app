@@ -1,3 +1,13 @@
+@font-face {
+    font-family: 'CaskaydiaCoveNerdFont';
+    src: url('../public/CaskaydiaCoveNerdFont-Regular.ttf');
+  }
+  
+  * {
+    font-family: 'CaskaydiaCoveNerdFont', monospace;
+  }
+
+
 body {
     margin: 0;
 }
